@@ -4,7 +4,7 @@
 
 ## 💻 Project
 
-🚧 Application in which the user uploads videos and, through AI, automatically creates eye-catching titles and descriptions with good indexing according to the content presented in the video. 🚀
+🚧 Application in which the user uploads videos and, through AI, automatically creates eye-catching titles and descriptions with good indexing according to the content presented in the video. 🚀🚀
 
 ## ✨ Technologies
 
